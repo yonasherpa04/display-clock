@@ -1,1 +1,1 @@
-# display-clock
+clock display
